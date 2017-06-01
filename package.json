@@ -1,0 +1,23 @@
+{
+  "name": "ali-berries",
+  "version": "1.0.0",
+  "description": "axios based node.js module for the aliyun table-store (OTS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aysnine/ali-berries.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aysnine/ali-berries/issues"
+  },
+  "homepage": "https://github.com/Aysnine/ali-berries#readme",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "protobufjs": "^6.7.3"
+  }
+}
