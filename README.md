@@ -4,7 +4,7 @@
 
 > 记 2017.6.1，上午10点，一个小时前误删该代码无发恢复，靠记忆重写，真 TMD 刺激。。。
 
-## 主要依赖的库
+## Modules
 
 - axios
 - protobufjs
@@ -14,7 +14,7 @@
 ```javascript
 const ots = require('ali-berries');
 
-// 创建数据库实例
+// 创建数据库操作的实例
 const db = ots.create('foo', 'region', 'key', 'secret');
 
 // 查看所有表
